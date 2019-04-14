@@ -4,3 +4,5 @@
 
 * git add
 * git commit
+* git branch0.1
+* git checkout0.1
