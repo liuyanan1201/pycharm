@@ -1,6 +1,6 @@
 # 这是一个pycharm的git测试
 
-##test
+## test
 
-*git add
-*git commit
+* git add
+* git commit
